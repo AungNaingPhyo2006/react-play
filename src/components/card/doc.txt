@@ -1,0 +1,8 @@
+(1)Cards ====> 
+1.title -> string, 
+2.fn -> function, 
+3.Link -> component's route link-> string
+
+(2)Header =====>
+1.title -> string
+2.color -> string  e.g -> color="red"
